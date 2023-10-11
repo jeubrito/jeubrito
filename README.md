@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Ph.D. student at Federal University of Espírito Santo (UFES). Postgraduate Program in Informatics (PPGI). Member of High-Performance Computing Lab (LCAD). Research areas: Information Extraction, and Natural Language Processing.
+[CV](http://lattes.cnpq.br/9435511450550809)
