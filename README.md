@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Jessica
 
 <!--
 **jeubrito/jeubrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Ph.D. student at Federal University of Espírito Santo (UFES). Postgraduate Program in Informatics (PPGI). Member of High-Performance Computing Lab (LCAD). Research areas: Information Extraction, and Natural Language Processing.
